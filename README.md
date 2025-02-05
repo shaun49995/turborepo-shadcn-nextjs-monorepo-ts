@@ -1,13 +1,13 @@
 # shadcn/ui monorepo template
 
-This template is for creating a monorepo with shadcn/ui. shadcn provides a pnpm sample - this repository has the necessary changes to run the monorepo with npm instead of pnpm.
+This template is for creating a monorepo with shadcn/ui. Shadcn provides a pnpm sample which breaks because users do not have pnpm installed - this repository has the necessary changes to run the monorepo with npm instead.
 
 The repo consist of:
-Tailwind CSS
-NextJS web app (more apps can be installed in the apps folder)
-Shadcn components
-Typescript
-npm package manager
+- Tailwind CSS
+- NextJS web app (more apps can be installed in the apps folder)
+- Shadcn components
+- Typescript
+- npm package manager
 
 ## Running The Project
 In the root folder run:
